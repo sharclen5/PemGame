@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Field Map","order":1,"parentId":0,"scrollX":666.5454545454546,"scrollY":362.1818181818182},
-{"id":2,"expanded":true,"name":"TES","order":8,"parentId":0,"scrollX":1047.4285714285713,"scrollY":569.1428571428571},
-{"id":3,"expanded":false,"name":"Studio Apartment","order":9,"parentId":2,"scrollX":816,"scrollY":624},
-{"id":4,"expanded":false,"name":"GedA","order":7,"parentId":5,"scrollX":742.8,"scrollY":436.79999999999995},
-{"id":5,"expanded":true,"name":"FT","order":6,"parentId":0,"scrollX":5847.272727272728,"scrollY":8011.636363636364},
-{"id":6,"expanded":true,"name":"GedE-LT1","order":2,"parentId":0,"scrollX":783.5999999999999,"scrollY":513.6},
-{"id":7,"expanded":false,"name":"Hospital 2F","order":10,"parentId":2,"scrollX":1062,"scrollY":1116},
-{"id":8,"expanded":false,"name":"School","order":11,"parentId":2,"scrollX":816,"scrollY":624},
-{"id":9,"expanded":false,"name":"Ruangan E101","order":3,"parentId":6,"scrollX":2476,"scrollY":1456},
-{"id":10,"expanded":false,"name":"E101","order":4,"parentId":6,"scrollX":742.8,"scrollY":446.4},
-{"id":11,"expanded":false,"name":"Kos","order":12,"parentId":0,"scrollX":675.2727272727273,"scrollY":405.8181818181818},
-{"id":12,"expanded":false,"name":"E104","order":5,"parentId":6,"scrollX":1512,"scrollY":794.1818181818182}
+{"id":1,"expanded":false,"name":"Field Map","order":2,"parentId":0,"scrollX":814.6666666666666,"scrollY":453.3333333333333},
+{"id":2,"expanded":true,"name":"TES","order":8,"parentId":0,"scrollX":814.6666666666666,"scrollY":453.3333333333333},
+{"id":3,"expanded":false,"name":"Studio Apartment","order":9,"parentId":2,"scrollX":825.3333333333334,"scrollY":554.6666666666666},
+{"id":4,"expanded":false,"name":"GedA","order":7,"parentId":5,"scrollX":1047.4285714285713,"scrollY":582.8571428571428},
+{"id":5,"expanded":true,"name":"FT","order":3,"parentId":0,"scrollX":4936,"scrollY":9157.333333333334},
+{"id":6,"expanded":true,"name":"GedE-LT1","order":4,"parentId":5,"scrollX":814.6666666666666,"scrollY":506.6666666666667},
+{"id":7,"expanded":false,"name":"Hospital 2F","order":10,"parentId":2,"scrollX":1061.3333333333333,"scrollY":1116},
+{"id":8,"expanded":false,"name":"School","order":11,"parentId":2,"scrollX":814.6666666666666,"scrollY":1001.3333333333334},
+{"id":9,"expanded":false,"name":"Ruangan E101","order":1,"parentId":0,"scrollX":814.6666666666666,"scrollY":453.3333333333333},
+{"id":10,"expanded":true,"name":"E101","order":5,"parentId":6,"scrollX":814.6666666666666,"scrollY":1274.6666666666667},
+{"id":11,"expanded":false,"name":"Kos","order":12,"parentId":0,"scrollX":814.6666666666666,"scrollY":453.3333333333333},
+{"id":12,"expanded":false,"name":"E104","order":6,"parentId":6,"scrollX":1818.8571428571427,"scrollY":582.8571428571428}
 ]
